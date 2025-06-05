@@ -19,19 +19,6 @@ Features
 - ✅ Console-based output for rapid evaluation
 
 
-Project Structure
-
-Resume_Judge
-├── data/
-│ ├── resumes/
-│ │ └── example_resume.pdf
-│ └── job_descriptions/
-│ └── example_jd.pdf
-├── main.py
-├── requirements.txt
-└── README.md
-
-
 Install Dependencies
 
 pip install -r requirements.txt
